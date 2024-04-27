@@ -92,7 +92,7 @@
 
 ![히스토그램](https://github.com/Leegyeongseob/Data-visualization/assets/67867076/37dc968c-f1a1-4c86-b94a-80a2f21d4c1d)
 
-산점도
+## 산점도
 
 ![산점도](https://github.com/Leegyeongseob/Data-visualization/assets/67867076/e7c1f12c-7896-4648-a493-16e7f94f61ec)
 
